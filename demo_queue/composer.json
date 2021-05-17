@@ -1,0 +1,19 @@
+{
+  "name": "vendor_name/demo_queue",
+  "description": "description",
+  "minimum-stability": "stable",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "shin_bae",
+      "email": "email@example.com"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "Queue\\": "Queue"
+    }
+  },
+  "require": {
+  }
+}
