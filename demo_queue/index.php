@@ -1,7 +1,6 @@
 <?php
 
 
-use Queue\Element;
 use Queue\Queue;
 
 include_once "vendor/autoload.php";
