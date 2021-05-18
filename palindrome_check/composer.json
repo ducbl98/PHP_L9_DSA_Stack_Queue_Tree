@@ -1,0 +1,19 @@
+{
+  "name": "vendor_name/palindrome_check",
+  "description": "description",
+  "minimum-stability": "stable",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "shin_bae",
+      "email": "email@example.com"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "Palindrome\\": "src"
+    }
+  },
+  "require": {
+  }
+}
